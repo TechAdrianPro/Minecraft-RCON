@@ -1,0 +1,5 @@
+<?php
+$rconHost = "";
+$rconPort = ;
+$rconPassword = "";
+?>
